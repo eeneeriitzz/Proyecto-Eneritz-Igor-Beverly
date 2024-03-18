@@ -1,0 +1,52 @@
+body{
+	font-family: arial; 
+	background-color: #2E8B57; 
+	margin-left: 1cm; 
+	color: blue; 
+	font-size: 15;
+	}
+			
+h2{
+	text-align: center; 
+	color: red; 
+	font-size: 14; 
+	letter-spacing: 2cm; 
+	font-weight: bold;
+	}
+			
+span{
+	color: white; 
+	font-family: Verdana; 
+	font-size: 20;
+	}
+			
+span.aa	{
+	color: maroon; 
+	font-size: 25; 
+	letter-spacing: 8px; 
+	font-style: italic;
+	}
+			
+div	{
+	margin-left: 2cm; 
+	margin-right: 1cm; 
+	margin-top: 4cm; 
+	color: red; 
+	font-size: 16pt; 
+	font-weight: bold; 
+	font-style: italic; 
+	text-align: left; 
+	line-height: 2cm;
+	}
+			
+p.aa{
+	color: orange; 
+	font-size: 24; 
+	font-family: Courier;
+	}
+			
+a{
+	font-size: 18; 
+	color: green; 
+	font-style: italic;
+	}
